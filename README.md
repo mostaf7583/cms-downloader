@@ -26,6 +26,21 @@ When `PUPPETEER_SKIP_CHROMIUM_DOWNLOAD` is set to `true`, puppeteer skips downlo
 
 3. You should be ready to move to the next step (How to run)
 
+## if you are in linux you must have 
+ 1. to get npm
+    
+    ...
+    sudo apt-get install  npm
+    ...
+ 2. text editor to view .env file 
+    ...
+    sudo apt-get vim 
+    ...
+    by typing 
+    ....
+    vim .env
+    ...
+
 ## How to run
 
 1. Clone the repo
